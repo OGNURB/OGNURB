@@ -74,3 +74,28 @@ Aceito fazer parte da fml ganja
 </form>
 </body>
 </html
+
+
+
+________________________
+
+/**/
+body{
+background-color: blue
+border: red 3px ;
+margin:30
+}
+p{
+
+    text-align: center;
+
+}
+form{
+text-align: center;
+
+}
+h2{
+
+
+
+}
