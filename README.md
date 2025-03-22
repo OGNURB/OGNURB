@@ -1,4 +1,4 @@
-  <!DOCTYPE	html>
+<!DOCTYPE	html>
 <html lang=
 "pt-br">
 <head>
@@ -58,6 +58,19 @@ Comentários:
     
     
 </p>
+<!--CheckBox-->
+<p>
+    <input type="checkbox" name="confirmar">
+Aceito fazer parte da fml ganja
+</p>
+<input type="reset">
+    <input type="submit">
+    <!--Fieldset-->
+<fieldset>
+<legend align="center">Dados Pessoais</legend>
+<label>Nome:<input type=""/></label>
+<label>Cpf:<input type=""/></label>
+</fieldset>
 </form>
 </body>
 </html
